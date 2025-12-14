@@ -9,7 +9,7 @@ arch:
   - aarch64
   - amd64
   - i386
-url: https://github.com/sle118/addons-network-manager-fix/tree/main/network-manager-fix
+url: https://github.com/phiberoptick/addons-network-manager-fix/tree/phiberoptick-change-repo/network-manager-fix
 full_access: true
 host_dbus: true
 host_network: true
